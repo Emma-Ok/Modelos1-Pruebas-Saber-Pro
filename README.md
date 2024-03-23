@@ -3,4 +3,4 @@ Github dedicado a la materia Modelos &amp; Simulación 1 en la cual se basa en r
 Realizado por los estudiantes:
 Emmanuel Bustamante Valbuena - 1001018117
 León Mateo Velez Gonzalez - 1216728793
-Santiago Garcia - 
+Santiago Garcia - 1037665031
