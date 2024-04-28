@@ -7,3 +7,6 @@ Emmanuel Bustamante Valbuena - 1001018117
 León Mateo Velez Gonzalez - 1216728793
 <br>
 Julián Alberto David Goez - 1035879371
+<br>
+https://youtu.be/ReKCt7uuKVo
+// Video con la explicación de la entrega 02
