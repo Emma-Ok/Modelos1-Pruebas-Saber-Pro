@@ -10,3 +10,5 @@ Julián Alberto David Goez - 1035879371
 <br>
 https://youtu.be/ReKCt7uuKVo
 // Video con la explicación de la entrega 02
+https://www.youtube.com/watch?v=n8-nhOWHP2s
+// Video con la explicacion de la entrega final
